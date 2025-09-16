@@ -1,4 +1,4 @@
-This starter class library includes comprehensive Excel reports displaying the complete framework:
+This starter class library includes comprehensive Excel reports displaying the current framework:
 
 Class Hierarchy Report - Displays class hierarchy of all classes in the starter class library. Use Excel group expand/collapse feature to navigate the class hierarchy.
 
