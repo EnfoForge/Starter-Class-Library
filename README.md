@@ -11,6 +11,11 @@ The library translates the CFIHOS specification into a practical, extensible cod
 
 The primary objective of this class library is to bridge the gap between the CFIHOS standard and real-world implementation. By providing a ready-to-use, open-source framework, it simplifies the process of adopting CFIHOS and customizing it to meet the unique needs of individual organizations.
 
+## Starter Class Library White Paper
+
+Provides an overview of the CFIHOS-compliant starter class library’s purpose, design, and benefits. Details the architecture, customization options, and integration pathways with company specific workflows. Explains industry standards alignment and offers best practices for implementing and extending the class library in real-world environments.
+
+
 ## Key Features
 
 - Full alignment with CFIHOS 2.0 data structures and terminology
