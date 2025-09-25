@@ -13,7 +13,7 @@ The primary objective of this class library is to bridge the gap between the CFI
 
 ## Starter Class Library White Paper
 
-Provides an overview of the CFIHOS-compliant starter class library’s purpose, design, and benefits. Details the architecture, customization options, and integration pathways with company specific workflows. Explains industry standards alignment and offers best practices for implementing and extending the class library in real-world environments.
+EF-JS-8380-0001 - Starter Class Library - White Paper ,Provides an overview of the CFIHOS-compliant starter class library’s purpose, design, and benefits. Details the architecture, customization options, and integration pathways with company specific workflows. Explains industry standards alignment and offers best practices for implementing and extending the class library in real-world environments.
 
 
 ## Key Features
